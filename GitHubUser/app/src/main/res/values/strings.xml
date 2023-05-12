@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GitHub User</string>
+    <string name="search_hint">Search</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="content_tab_text">This is Tab %1$d</string>
+    <string name="not_connected">Network or Service is Not Available</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+</resources>
